@@ -27,7 +27,3 @@ def character_race_menu():
 
 character_race = character_race_menu()
 print(f"\n{character_name} the almighty {character_race}.")
-
-# This is absolutely rad. I removed your previous line comment.
-
-print("this is the best time im having so far!")
