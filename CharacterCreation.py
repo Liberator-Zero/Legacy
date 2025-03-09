@@ -27,3 +27,4 @@ def character_race_menu():
 
 character_race = character_race_menu()
 print(f"\n{character_name} the almighty {character_race}.")
+# chris is so flipping cool
